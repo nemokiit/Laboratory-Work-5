@@ -17,23 +17,23 @@ This repository contains the solutions for the fifth laboratory work in Java pro
    javac *.java
    ```
 3. Run the programs individually depending on the task:
-To extract numbers from text:
-```
-java NumberFinder
-```
-To validate a password:
-```
-java PasswordValidator
-```
-To highlight case boundaries:
-```
-java CaseHighlighter
-```
-To validate an IP address:
-```
-java IPValidator
-```
-To find words by their starting letter:
-```
-java StartingLetterFinder
-```
+   To extract numbers from text:
+   ```
+   java NumberFinder
+   ```
+   To validate a password:
+   ```
+   java PasswordValidator
+   ```
+   To highlight case boundaries:
+   ```
+   java CaseHighlighter
+   ```
+   To validate an IP address:
+   ```
+   java IPValidator
+   ```
+   To find words by their starting letter:
+   ```
+   java StartingLetterFinder
+   ```
